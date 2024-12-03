@@ -2,6 +2,16 @@
 Description
 This project focuses on analyzing historical Olympic Games data to uncover key trends and insights related to gender participation, country performance, and sports diversity. The analysis addresses specific problem statements and visualizes data-driven insights to highlight historical patterns in the Olympic Games. The goal is to provide meaningful insights for sports analysts, historians, and organizations to better understand factors shaping Olympic performance.
 
+# Problem Statements
+ Analyse the dataset and review the following problem statements. 
+1. Medals Won by Gender % 
+2. Male and Female Ratios by Year 
+3. Top 10 Countries by Medals 
+4. Top Olympic Medallists by Total Medals 
+5. Total Number of Participating Countries 
+6. Total Number of Sports
+
+
 # Screenshot
 ![Bronze](https://github.com/user-attachments/assets/95390567-a80e-4710-be0b-0c4305b45475)
 ![Gold](https://github.com/user-attachments/assets/e81db369-206f-43ed-aa41-7ea972f16ff1)
